@@ -33,7 +33,7 @@ I demonstrate my ability to install and utilize the popular ticket system called
 <img src="/img/working-the-tickets-13.png" height="80%" width="80%" alt="demo tickets"/>
 </p>
 <p>
-I have creted several mock tickets inside the OSTicket system.   This demostates my working knowledge of the system to add new tickets.
+I have created several mock tickets inside the OSTicket system.   This demonstates my working knowledge of the system to add new tickets.
 </p>
 <hr/>
 <br />
