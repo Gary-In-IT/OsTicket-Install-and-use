@@ -22,25 +22,26 @@ I demonstrate my ability to install and utilize the popular ticket system called
 <p><img src="/img/os-ticket-install-11.png" height="80%" width="80%" alt="osTicket install step"/></p>
 <p>I have installed OSticket on an Azure VM.   
 
-  First I setup a Web Server: I then Installed and configure the web server (Apache, IIS, or Nginx) on my virtual machine.
-  PHP: I made sure PHP was installed (version 8.1 or higher) and that it meets the required PHP extensions.   
-  Database Server: Installed and set up a database server (MySQL or MariaDB) on my VM or connect to an external one.
+  First I setup a Web Server: I then Installed and configured the web server (Can be either Apache, IIS, or Nginx) on my virtual machine.
+  PHP: I made sure PHP was installed (version 8.1 or higher is required) and that it meets the required PHP extensions.   
+  Database Server: Installed and set up a database server (could use MySQL or MariaDB) on my VM or connect to an external one.
 </p>
 <hr/>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="/img/working-the-tickets-13.png" height="80%" width="80%" alt="demo tickets"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I have creted several mock tickets inside the OSTicket system.   This demostates my working knowledge of the system to add new tickets.
 </p>
+<hr/>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="/img/working-the-tickets-pic2-14.png" height="80%" width="80%" alt="ticket work"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here is an individual ticket being worked.    I demonstrate my ability to access and clear individual tickets.
 </p>
 <br />
